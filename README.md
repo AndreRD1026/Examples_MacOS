@@ -23,7 +23,7 @@ Before you need to install the compiler of each language
 <img width="485" alt="C++ terminal" src="https://user-images.githubusercontent.com/79030416/187000192-f6cc76f6-45c0-4391-a6ec-3c57e7e7babe.png">
 
 ## Go<br>
-<img width="441" alt="Golang terminal" src="https://user-images.githubusercontent.com/79030416/186999779-f3b3aac6-b513-4fae-971f-754801825b57.png">
+<img width="436" alt="Golang terminal" src="https://user-images.githubusercontent.com/79030416/187000791-0d07f71f-9b17-409a-84c0-fbf76805faff.png">
 
 ## Swift<br>
 <img width="441" alt="Swift terminal" src="https://user-images.githubusercontent.com/79030416/186999797-81b6877d-3594-498d-bfcd-095f9c6ebeaa.png">
